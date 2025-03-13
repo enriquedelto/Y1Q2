@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2205fbf28c78ab71",
+        "id": "61f0301ae7a591d3",
         "type": "tabs",
         "children": [
           {
-            "id": "8f65296ed2494891",
+            "id": "c1e38fa3036d1b33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Asignaturas/Sistemas Operativos/1. Introducción/El Sistema Operativo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "El Sistema Operativo"
+            }
+          },
+          {
+            "id": "e016f38fab701e30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Sistemas Operativos/1. Introducción/Objetivos y Funciones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objetivos y Funciones"
             }
           }
         ],
@@ -143,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Asignaturas/Sistemas Operativos/1. Introducción/El Sistema Operativo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of El Sistema Operativo"
             }
           },
           {
@@ -158,26 +172,17 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "4338c868d5015253",
-            "type": "leaf",
-            "state": {
-              "type": "smart-lookup-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "smart-connections",
+              "title": "Smart Connections"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 331.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,46 +199,47 @@
       "wikipedia-search:Open Article": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "smart-connections-visualizer:Open smart connections visualizer": false
     }
   },
-  "active": "8f65296ed2494891",
+  "active": "c1e38fa3036d1b33",
   "lastOpenFiles": [
+    "E/S.md",
+    "Asignaturas/Sistemas Operativos/1. Introducción/El Sistema Operativo.md",
+    "E",
+    "Enciclopedia/Máquina Desnuda.md",
+    "Enciclopedia/Máquina Extendida.md",
+    "Enciclopedia/Interfaz de Usuario.md",
+    "Entrada/Salida (E/S).md",
+    "Entrada/Salida (E",
+    "Entrada",
+    "Enciclopedia/Usuario.md",
+    "Enciclopedia/Kernel.md",
+    "Enciclopedia/Sistema Operativo.md",
+    "Asignaturas/Sistemas Operativos/1. Introducción/Objetivos y Funciones.md",
+    "Asignaturas/Sistemas Operativos/1. Introducción/Introducción y Objetivos.md",
+    "Asignaturas/Sistemas Operativos/1. Introducción/Evolución histórica.md",
+    "Asignaturas/Sistemas Operativos/1. Introducción/1.1 Bloques Fundamentales/Gestión de memoria.md",
+    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Programación Dinámica.md",
+    "Asignaturas/Sistemas Operativos/Sistemas Operativos (idx).md",
+    "Asignaturas/Sistemas Operativos/1. Introducción/1.1 Bloques Fundamentales/Bloques Fundamentales.md",
     "DIARIO.md",
-    "Descripción Sistema Bóveda.md",
     "README.md",
+    "Asignaturas/Álgebra y Matemática Discreta/1. Lógica y Demostracioness/1.1 Métodos de Prueba/Estrategias de Demostración.md",
+    "Asignaturas/Álgebra y Matemática Discreta/1. Lógica y Demostracioness/1.1 Métodos de Prueba/Métodos de Prueba.md",
+    "Asignaturas/Álgebra y Matemática Discreta/1. Lógica y Demostracioness/1.1 Métodos de Prueba/Ejercicios.md",
+    "Asignaturas/Fundamentos de la Empresa/1. Conceptos Básicos/Concepto y Características de la Empresa.md",
+    "Descripción Sistema Bóveda.md",
     "Asignaturas/Fundamentos de la Empresa/1. Conceptos Básicos/Criterios para Clasificar las Empresas.md",
     "Asignaturas/Fundamentos de la Empresa/1. Conceptos Básicos/Unión Europea.md",
-    "Asignaturas/Fundamentos de la Empresa/1. Conceptos Básicos/Concepto y Características de la Empresa.md",
     "Enciclopedia",
     "Asignaturas",
     "REFERENCIA TAGS.md",
-    "NOTA REFERENCIA PARA TEMARIO Y CONTENIDOS.md",
-    "Asignaturas/Asignaturas (idx).md",
-    "Asignaturas/Cálculo/1. Cálculo Diferencial/1.1 Introducción al Análisis/Concepto de función.md",
-    "Asignaturas/Cálculo/1. Cálculo Diferencial/1.1 Introducción al Análisis/Introducción y Objetivos.md",
-    "Asignaturas/Tecnología de Computadores/La Información y Sistemas de Numeración/Aritmética de números naturales y enteros.md",
-    "Asignaturas/Tecnología de Computadores/La Información y Sistemas de Numeración/Representación de números naturales y enteros.md",
-    "Asignaturas/Tecnología de Computadores/La Información y Sistemas de Numeración/Representaciones numéricas y alfanuméricas.md",
-    "Asignaturas/Tecnología de Computadores/La Información y Sistemas de Numeración/La ALU.md",
-    "Asignaturas/Tecnología de Computadores/Tecnología de Computadores (idx).md",
-    "Asignaturas/Tecnología de Computadores/La Información y Sistemas de Numeración/Introducción y Objetivos.md",
-    "Asignaturas/Tecnología de Computadores/Introducción y Sistemas de Numeración/Estructura de un Computador.md",
     "Asignaturas/Tecnología de Computadores/La Información y Sistemas de Numeración",
-    "Asignaturas/Tecnología de Computadores/Introducción y Sistemas de Numeración/Introducción y Objetivos.md",
-    "Asignaturas/Tecnología de Computadores/Introducción y Sistemas de Numeración/Los sistemas de información y los computadores.md",
     "Asignaturas/Tecnología de Computadores/Introducción y Sistemas de Numeración",
     "Asignaturas/Tecnología de Computadores",
-    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Recursividad.md",
-    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Programación Dinámica.md",
-    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Problemas/Soluciones/Recursividad.md",
-    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Problemas/Divide y Conquista.md",
-    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Problemas/Ejercicios - Recursividad.md",
-    "Asignaturas/Fundamentos de la Empresa/1. Conceptos Básicos/Introducción y Objetivos.md",
     "Asignaturas/Fundamentos de la Empresa/1. Conceptos Básicos",
-    "Asignaturas/Fundamentos de la Empresa",
-    "Asignaturas/Álgebra y Matemática Discreta/1. Lógica y Demostracioness/1.1 Métodos de Prueba",
-    "Asignaturas/Álgebra y Matemática Discreta/1. Lógica y Demostracioness",
-    "Asignaturas/Álgebra y Matemática Discreta"
+    "Asignaturas/Fundamentos de la Empresa"
   ]
 }

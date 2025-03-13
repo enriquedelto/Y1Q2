@@ -49,6 +49,7 @@ tags:
 > 	- [[Sistemas Operativos (idx)]]
 > 	- **Introducción**
 > 		- [[Concepto del Sistema Operativo]]
+> 		- [[El Sistema Operativo]]
 > 		- [[Evolución histórica]]
 > 		- [[Asignaturas/Sistemas Operativos/1. Introducción/Introducción y Objetivos|Introducción y Objetivos]]
 > 		- [[Objetivos y Funciones]]
