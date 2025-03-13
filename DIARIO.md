@@ -1,5 +1,5 @@
 - Cálculo: 2
-- Sistemas Operativos: 1
+- Sistemas Operativos: 2
 - Algoritmia: 1
 - Álgebra: 1
 - Fundamentos de la Empresa: 1

@@ -24,7 +24,7 @@ Los **bloques fundamentales** de un sistema operativo son los componentes básic
    - Administración del sistema de archivos.
    - Gestión del espacio en discos y otros medios de almacenamiento secundario.
 
-4. **Gestión de Entrada/Salida (E/S)**
+1. **[[Gestión de Entrada/Salida (E/S)]]**
    - Control de dispositivos periféricos.
    - Administración eficiente de operaciones de entrada/salida.
 
@@ -32,7 +32,7 @@ Los **bloques fundamentales** de un sistema operativo son los componentes básic
    - Organización lógica y física de archivos.
    - Gestión de directorios y permisos.
 
-6. **Seguridad y protección**
+1. **[[Seguridad y protección]]**
    - Control de accesos y privilegios.
    - Protección frente a accesos no autorizados.
 
@@ -40,6 +40,6 @@ Los **bloques fundamentales** de un sistema operativo son los componentes básic
    - Medio de comunicación entre usuario y sistema operativo.
    - Interfaces gráficas (GUI), texto (CLI), entre otras.
 
-8. **Núcleo (Kernel)**
+1. **[[Núcleo (Kernel)]]**
    - Capa central que gestiona los recursos de hardware.
    - Coordina las actividades esenciales del sistema operativo.

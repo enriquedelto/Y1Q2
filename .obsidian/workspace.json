@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Sistemas Operativos/1. Introducción/Objetivos y Funciones.md",
+                "file": "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Estrategias de Diseño de Algoritmos (idx).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objetivos y Funciones"
+              "title": "Estrategias de Diseño de Algoritmos (idx)"
             }
           }
         ],
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Sistemas Operativos/1. Introducción/Objetivos y Funciones.md",
+                "file": "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Estrategias de Diseño de Algoritmos (idx).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Objetivos y Funciones"
+              "title": "Outline of Estrategias de Diseño de Algoritmos (idx)"
             }
           },
           {
@@ -188,42 +188,43 @@
       "smart-connections-visualizer:Open smart connections visualizer": false
     }
   },
-  "active": "2999921ba806a463",
+  "active": "c1e38fa3036d1b33",
   "lastOpenFiles": [
-    "Asignaturas/Sistemas Operativos/1. Introducción/El Sistema Operativo.md",
-    "Enciclopedia/Informática/Sistema Operativo.md",
-    "Enciclopedia/Informática/Máquina Extendida.md",
-    "Enciclopedia/Informática/Usuario.md",
-    "Enciclopedia/Informática/Interfaz de Usuario.md",
-    "Enciclopedia/Informática",
-    "E/S.md",
-    "E",
-    "Enciclopedia/Informática/Máquina Desnuda.md",
-    "Entrada/Salida (E/S).md",
-    "Entrada/Salida (E",
-    "Entrada",
-    "Enciclopedia/Informática/Kernel.md",
+    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Programación Dinámica.md",
+    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Algoritmos Golosos (Greedy).md",
+    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Backtracking.md",
+    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Branch and Bound.md",
+    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Divide y Conquista.md",
+    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Recursividad.md",
+    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Introducción y Objetivos.md",
+    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Estrategias de Diseño de Algoritmos (idx).md",
+    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Problemas/Ejercicios - Recursividad.md",
+    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Problemas/Divide y Conquista.md",
+    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Problemas/Soluciones/Recursividad.md",
+    "DIARIO.md",
+    "Asignaturas/Sistemas Operativos/1. Introducción/1.1 Bloques Fundamentales/Gestión de procesos.md",
+    "Asignaturas/Sistemas Operativos/1. Introducción/1.1 Bloques Fundamentales/Gestión de memoria.md",
+    "Asignaturas/Sistemas Operativos/1. Introducción/1.1 Bloques Fundamentales/Bloques Fundamentales.md",
     "Asignaturas/Sistemas Operativos/1. Introducción/Objetivos y Funciones.md",
     "Asignaturas/Sistemas Operativos/1. Introducción/Introducción y Objetivos.md",
     "Asignaturas/Sistemas Operativos/1. Introducción/Evolución histórica.md",
-    "Asignaturas/Sistemas Operativos/1. Introducción/1.1 Bloques Fundamentales/Gestión de memoria.md",
-    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Programación Dinámica.md",
-    "Asignaturas/Sistemas Operativos/Sistemas Operativos (idx).md",
-    "Asignaturas/Sistemas Operativos/1. Introducción/1.1 Bloques Fundamentales/Bloques Fundamentales.md",
-    "DIARIO.md",
+    "Asignaturas/Sistemas Operativos/1. Introducción/El Sistema Operativo.md",
+    "TEST.md",
+    "Enciclopedia/Informática/Interfaz de Usuario.md",
+    "Enciclopedia/Informática/Kernel.md",
     "README.md",
-    "Asignaturas/Álgebra y Matemática Discreta/1. Lógica y Demostracioness/1.1 Métodos de Prueba/Estrategias de Demostración.md",
-    "Asignaturas/Álgebra y Matemática Discreta/1. Lógica y Demostracioness/1.1 Métodos de Prueba/Métodos de Prueba.md",
-    "Asignaturas/Álgebra y Matemática Discreta/1. Lógica y Demostracioness/1.1 Métodos de Prueba/Ejercicios.md",
-    "Asignaturas/Fundamentos de la Empresa/1. Conceptos Básicos/Concepto y Características de la Empresa.md",
-    "Descripción Sistema Bóveda.md",
-    "Asignaturas/Fundamentos de la Empresa/1. Conceptos Básicos/Criterios para Clasificar las Empresas.md",
-    "Asignaturas/Fundamentos de la Empresa/1. Conceptos Básicos/Unión Europea.md",
+    "Gestión de Entrada/Salida (E/S).md",
+    "Gestión de Entrada/Salida (E",
+    "Gestión de Entrada",
+    "Asignaturas/Sistemas Operativos/1. Introducción/Concepto del Sistema Operativo.md",
+    "Enciclopedia/Informática/Sistema Operativo.md",
+    "Enciclopedia/Informática",
+    "E",
+    "Entrada/Salida (E",
+    "Entrada",
     "Enciclopedia",
     "Asignaturas",
     "Asignaturas/Tecnología de Computadores/La Información y Sistemas de Numeración",
-    "Asignaturas/Tecnología de Computadores/Introducción y Sistemas de Numeración",
-    "Asignaturas/Tecnología de Computadores",
-    "Asignaturas/Fundamentos de la Empresa/1. Conceptos Básicos"
+    "Asignaturas/Tecnología de Computadores/Introducción y Sistemas de Numeración"
   ]
 }
