@@ -4,9 +4,14 @@ tags:
 ---
 
 > [!example] Asignaturas / Algoritmia
+> - **Análisis de algoritmos**
+> 	- [[1 - Notación asintótica]]
+> 	- [[2 - Análisis matemático de algoritmos no recursivos]]
 > - **Eficiencia de los algoritmos**
-> 	- **Medidas de eficiencia**
-> 		- [[Medidas de Eficiencia]]
+> 	- [[Caso peor, mejor y medio]]
+> 	- [[Medidas de Eficiencia]]
+> 	- [[Tamaño de Entrada]]
+> 	- [[Tiempo de Ejecución]]
 > - **Introducción**
 > 	- **Estrategias diseño algoritmos**
 > 		- [[Algoritmos Golosos (Greedy)]]

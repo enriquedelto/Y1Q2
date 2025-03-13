@@ -2,8 +2,6 @@
 tags:
   - asignaturas/algoritmia/introducción/estrategias_diseño_algoritmos
 ---
-# Recursividad
-
 La **recursividad** es una técnica esencial en el diseño de algoritmos que permite abordar problemas complejos dividiéndolos en subproblemas más sencillos y de naturaleza similar. Se basa en el principio de que una función puede llamarse a sí misma para resolver instancias más pequeñas del mismo problema, hasta llegar a un caso base que se puede resolver de manera directa.
 
 ---

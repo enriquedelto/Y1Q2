@@ -43,7 +43,3 @@ La programación dinámica es especialmente útil cuando:
 - El problema original tiene una subestructura óptima, permitiendo que la solución global se construya a partir de las soluciones óptimas de cada subproblema.
 
 Esta técnica representa un enfoque ascendente para la resolución de problemas, en el que primero se resuelven los casos más simples y, posteriormente, se combinan para resolver problemas más complejos, garantizando una solución eficiente y óptima.
-
----
-
-> Nota: Este documento es parte de la colección de notas sobre algoritmos y técnicas de optimización en [Obsidian](obsidian://).  

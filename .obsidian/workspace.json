@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1e38fa3036d1b33",
+            "id": "c85103b3e9c68927",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Estrategias de Diseño de Algoritmos (idx).md",
+                "file": "Asignaturas/Algoritmia/3. Análisis de algoritmos/1 - Notación asintótica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estrategias de Diseño de Algoritmos (idx)"
+              "title": "1 - Notación asintótica"
             }
           }
         ],
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Estrategias de Diseño de Algoritmos (idx).md",
+                "file": "Asignaturas/Algoritmia/3. Análisis de algoritmos/1 - Notación asintótica.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Estrategias de Diseño de Algoritmos (idx)"
+              "title": "Outline of 1 - Notación asintótica"
             }
           },
           {
@@ -188,16 +188,29 @@
       "smart-connections-visualizer:Open smart connections visualizer": false
     }
   },
-  "active": "c1e38fa3036d1b33",
+  "active": "c85103b3e9c68927",
   "lastOpenFiles": [
-    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Programación Dinámica.md",
+    "Asignaturas/Cálculo/1. Cálculo Diferencial/1.1 Introducción al Análisis/Concepto de función.md",
+    "Asignaturas/Algoritmia/3. Análisis de algoritmos/1 - Notación asintótica.md",
+    "Asignaturas/Algoritmia/Algoritmia (idx).md",
+    "Asignaturas/Algoritmia/3. Análisis de algoritmos/2 - Análisis matemático de algoritmos no recursivos.md",
+    "Asignaturas/Algoritmia/2. Eficiencia de los Algoritmos/Caso peor, mejor y medio.md",
+    "Asignaturas/Algoritmia/3. Análisis de algoritmos",
+    "Asignaturas/Algoritmia/2. Eficiencia de los Algoritmos/Tiempo de Ejecución.md",
+    "Asignaturas/Algoritmia/2. Eficiencia de los Algoritmos/Tamaño de Entrada.md",
+    "Asignaturas/Algoritmia/2. Eficiencia de los Algoritmos/Medidas de Eficiencia.md",
+    "Asignaturas/Algoritmia/2. Eficiencia de los Algoritmos/GUIA.md",
+    "Asignaturas/Algoritmia/2. Eficiencia de los Algoritmos/2.1 Medidas de Eficiencia/Evaluación de Casos.md",
+    "Asignaturas/Algoritmia/2. Eficiencia de los Algoritmos/2.1 Medidas de Eficiencia/Notación Asintótica.md",
     "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Algoritmos Golosos (Greedy).md",
     "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Backtracking.md",
     "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Branch and Bound.md",
     "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Divide y Conquista.md",
-    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Recursividad.md",
-    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Introducción y Objetivos.md",
     "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Estrategias de Diseño de Algoritmos (idx).md",
+    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Introducción y Objetivos.md",
+    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Recursividad.md",
+    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Programación Dinámica.md",
+    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Untitled.canvas",
     "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Problemas/Ejercicios - Recursividad.md",
     "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Problemas/Divide y Conquista.md",
     "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Problemas/Soluciones/Recursividad.md",
@@ -205,26 +218,14 @@
     "Asignaturas/Sistemas Operativos/1. Introducción/1.1 Bloques Fundamentales/Gestión de procesos.md",
     "Asignaturas/Sistemas Operativos/1. Introducción/1.1 Bloques Fundamentales/Gestión de memoria.md",
     "Asignaturas/Sistemas Operativos/1. Introducción/1.1 Bloques Fundamentales/Bloques Fundamentales.md",
-    "Asignaturas/Sistemas Operativos/1. Introducción/Objetivos y Funciones.md",
-    "Asignaturas/Sistemas Operativos/1. Introducción/Introducción y Objetivos.md",
-    "Asignaturas/Sistemas Operativos/1. Introducción/Evolución histórica.md",
-    "Asignaturas/Sistemas Operativos/1. Introducción/El Sistema Operativo.md",
-    "TEST.md",
-    "Enciclopedia/Informática/Interfaz de Usuario.md",
-    "Enciclopedia/Informática/Kernel.md",
-    "README.md",
-    "Gestión de Entrada/Salida (E/S).md",
     "Gestión de Entrada/Salida (E",
     "Gestión de Entrada",
-    "Asignaturas/Sistemas Operativos/1. Introducción/Concepto del Sistema Operativo.md",
-    "Enciclopedia/Informática/Sistema Operativo.md",
     "Enciclopedia/Informática",
     "E",
     "Entrada/Salida (E",
     "Entrada",
     "Enciclopedia",
     "Asignaturas",
-    "Asignaturas/Tecnología de Computadores/La Información y Sistemas de Numeración",
-    "Asignaturas/Tecnología de Computadores/Introducción y Sistemas de Numeración"
+    "Asignaturas/Tecnología de Computadores/La Información y Sistemas de Numeración"
   ]
 }

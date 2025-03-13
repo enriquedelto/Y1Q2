@@ -2,8 +2,6 @@
 tags:
   - asignaturas/algoritmia/introducción/estrategias_diseño_algoritmos
 ---
-# Introducción y Objetivos
-
 Esta sección tiene como finalidad introducir el concepto de estrategias de diseño de algoritmos y explicar su importancia en la resolución de problemas complejos. Se busca que el estudiante entienda que la elección adecuada de una estrategia no solo influye en la corrección de la solución, sino también en su eficiencia, claridad y escalabilidad.
 
 ---
