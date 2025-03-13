@@ -27,7 +27,7 @@ Así, el [[Sistema Operativo]] cumple dos funciones principales (Tanenbaum, 2009
    La arquitectura de un computador y el conjunto de instrucciones del lenguaje máquina son complejos. El sistema operativo crea una **[[Máquina Extendida]]** o máquina virtual, más sencilla de manejar, que abstrae la complejidad del hardware. Algunos autores hacen referencia a la **[[Máquina Desnuda]]** para describir un computador sin sistema operativo, resaltando que la máquina en sí no ejecuta acciones por sí sola, sino que requiere de un programa para indicar qué instrucciones ejecutar.
 
 2. **Administrador de Recursos:**  
-   Los sistemas operativos modernos permiten la ejecución simultánea de varios programas. Para ello, se debe asignar de manera eficiente los recursos computacionales limitados. La administración de recursos incluye la **multiplexación** tanto en el tiempo (para el procesador) como en el espacio (en la memoria principal o en el almacenamiento secundario). El [[Sistema Operativo]] garantiza que todos los programas tengan acceso a los recursos que necesitan, adoptando un enfoque que va de abajo hacia arriba.
+   Los sistemas operativos modernos permiten la ejecución simultánea de varios programas. Para ello, se debe asignar de manera eficiente los recursos computacionales limitados. La administración de recursos incluye la **[[multiplexación]]** tanto en el tiempo (para el procesador) como en el espacio (en la memoria principal o en el almacenamiento secundario). El [[Sistema Operativo]] garantiza que todos los programas tengan acceso a los recursos que necesitan, adoptando un enfoque que va de abajo hacia arriba.
 
 ---
 

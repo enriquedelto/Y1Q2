@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Sistemas Operativos/1. Introducción/El Sistema Operativo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "El Sistema Operativo"
-            }
-          },
-          {
-            "id": "e016f38fab701e30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Asignaturas/Sistemas Operativos/1. Introducción/Objetivos y Funciones.md",
                 "mode": "source",
                 "source": false
@@ -157,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Sistemas Operativos/1. Introducción/El Sistema Operativo.md",
+                "file": "Asignaturas/Sistemas Operativos/1. Introducción/Objetivos y Funciones.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of El Sistema Operativo"
+              "title": "Outline of Objetivos y Funciones"
             }
           },
           {
@@ -177,12 +163,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,20 +188,21 @@
       "smart-connections-visualizer:Open smart connections visualizer": false
     }
   },
-  "active": "c1e38fa3036d1b33",
+  "active": "2999921ba806a463",
   "lastOpenFiles": [
-    "E/S.md",
     "Asignaturas/Sistemas Operativos/1. Introducción/El Sistema Operativo.md",
+    "Enciclopedia/Informática/Sistema Operativo.md",
+    "Enciclopedia/Informática/Máquina Extendida.md",
+    "Enciclopedia/Informática/Usuario.md",
+    "Enciclopedia/Informática/Interfaz de Usuario.md",
+    "Enciclopedia/Informática",
+    "E/S.md",
     "E",
-    "Enciclopedia/Máquina Desnuda.md",
-    "Enciclopedia/Máquina Extendida.md",
-    "Enciclopedia/Interfaz de Usuario.md",
+    "Enciclopedia/Informática/Máquina Desnuda.md",
     "Entrada/Salida (E/S).md",
     "Entrada/Salida (E",
     "Entrada",
-    "Enciclopedia/Usuario.md",
-    "Enciclopedia/Kernel.md",
-    "Enciclopedia/Sistema Operativo.md",
+    "Enciclopedia/Informática/Kernel.md",
     "Asignaturas/Sistemas Operativos/1. Introducción/Objetivos y Funciones.md",
     "Asignaturas/Sistemas Operativos/1. Introducción/Introducción y Objetivos.md",
     "Asignaturas/Sistemas Operativos/1. Introducción/Evolución histórica.md",
@@ -235,11 +221,9 @@
     "Asignaturas/Fundamentos de la Empresa/1. Conceptos Básicos/Unión Europea.md",
     "Enciclopedia",
     "Asignaturas",
-    "REFERENCIA TAGS.md",
     "Asignaturas/Tecnología de Computadores/La Información y Sistemas de Numeración",
     "Asignaturas/Tecnología de Computadores/Introducción y Sistemas de Numeración",
     "Asignaturas/Tecnología de Computadores",
-    "Asignaturas/Fundamentos de la Empresa/1. Conceptos Básicos",
-    "Asignaturas/Fundamentos de la Empresa"
+    "Asignaturas/Fundamentos de la Empresa/1. Conceptos Básicos"
   ]
 }
