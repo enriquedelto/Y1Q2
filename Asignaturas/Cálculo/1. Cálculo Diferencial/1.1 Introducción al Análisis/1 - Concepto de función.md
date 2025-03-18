@@ -178,7 +178,156 @@ En otras palabras, $\mathrm{Im}_f$ agrupa todos los resultados posibles de la ex
      $$
 # Composición de Funciones
 
-## Composición de f y g
+La composición de funciones es una operación fundamental en matemáticas que permite combinar dos funciones para formar una nueva. Se denota por $(f \circ g)(x)$ y se lee “**f compuesta con g**”. Es importante notar que, en la composición, **la función que se aplica primero es g**, y luego el resultado se usa como entrada para f.
 
-Sean $f:\mathbb{R}\rightarrow \mathbb{R}$ y $g:\mathbb{R}\rightarrow \mathbb{R}$, dos funciones, se llama composición de f y g a la función $h:\mathbb{R}\rightarrow \mathbb{R}$, tal que:
+---
 
+## Definición Formal
+
+Sean $f:\mathbb{R}\rightarrow \mathbb{R}$ y $g:\mathbb{R}\rightarrow \mathbb{R}$. La composición de f y g es la función $h:\mathbb{R}\rightarrow \mathbb{R}$ definida por:
+
+
+$$
+h(x) = (f \circ g)(x) = f(g(x))
+$$
+
+
+### Interpretación del Proceso
+
+1. **Aplicación de g:** Se toma un valor $x$ y se evalúa en $g$, obteniendo $g(x)$.
+2. **Aplicación de f:** Luego, se evalúa $f$ en el resultado anterior, es decir, se calcula $f(g(x))$.
+
+---
+
+## Consideraciones del Dominio
+
+Para que la expresión $f(g(x))$ esté definida, deben cumplirse dos condiciones:
+
+- **Condición 1:** $x$ debe pertenecer al dominio de $g$. Es decir, $x \in D_g$.
+- **Condición 2:** El resultado $g(x)$ debe pertenecer al dominio de $f$. Es decir, $g(x) \in D_f$.
+
+Por lo tanto, el dominio de la composición $f \circ g$ es el conjunto de todos los $x$ que cumplen estas condiciones.
+
+---
+
+## Propiedades Importantes
+
+- **No Conmutatividad:**  
+  La composición de funciones no es, en general, conmutativa. Esto significa que:
+  
+$$
+f \circ g \neq g \circ f
+$$
+
+  El orden en que se componen las funciones es crucial, ya que aplicar primero $g$ y luego $f$ puede dar un resultado distinto a aplicar primero $f$ y luego $g$.
+
+---
+
+## Ejemplo Práctico
+
+Consideremos las siguientes funciones:
+
+
+$$
+f(x)=x^2+1 \quad \text{y} \quad g(x)=\sqrt{x-2}
+$$
+
+
+### 1. Composición $f \circ g$
+
+#### Cálculo de $(f \circ g)(x)$:
+
+
+$$
+(f \circ g)(x)=f(g(x))=f(\sqrt{x-2})
+$$
+
+
+Sustituyendo en $f(x)=x^2+1$:
+
+
+$$
+f(\sqrt{x-2}) = (\sqrt{x-2})^2+1 = x-2+1 = x-1
+$$
+
+
+#### Dominio de $f \circ g$:
+
+- **Primero:** Se requiere que $x$ pertenezca al dominio de $g$.  
+  Dado que $g(x)=\sqrt{x-2}$ está definida cuando $x-2\geq 0$, se tiene:
+  
+$$
+D_g = [2, +\infty)
+$$
+
+- **Luego:** No se agregan restricciones adicionales por $f$ ya que $f(x)=x^2+1$ está definida para todo $x \in \mathbb{R}$.
+
+Por ello, el dominio de $f \circ g$ es:
+
+
+$$
+D_{f\circ g}=\{ x \in \mathbb{R} \mid x \ge 2 \}
+$$
+
+
+---
+
+### 2. Composición $g \circ f$
+
+#### Cálculo de $(g \circ f)(x)$:
+
+
+$$
+(g \circ f)(x)=g(f(x))=g(x^2+1)
+$$
+
+
+Sustituyendo en $g(x)=\sqrt{x-2}$:
+
+
+$$
+g(x^2+1)=\sqrt{(x^2+1)-2}=\sqrt{x^2-1}
+$$
+
+
+#### Dominio de $g \circ f$:
+
+Para que $\sqrt{x^2-1}$ esté definida, se requiere que:
+
+
+$$
+x^2-1 \geq 0
+$$
+
+
+Resolviendo la inecuación:
+
+
+$$
+x^2-1\geq 0 \quad \Longrightarrow \quad (x-1)(x+1)\geq 0
+$$
+
+
+La solución es:
+
+
+$$
+D_{g\circ f} = (-\infty,-1] \cup [1,+\infty)
+$$
+
+
+---
+
+## Resumen
+
+- La **composición de funciones** se define como:
+  
+$$
+(f \circ g)(x)=f(g(x))
+$$
+
+- Para que $f(g(x))$ esté definida, es necesario que:
+  - $x \in D_g$ (el dominio de $g$).
+  - $g(x) \in D_f$ (el dominio de $f$).
+- La composición **no es conmutativa**: $f \circ g$ puede diferir de $g \circ f$.
+- En el ejemplo, se analizaron las composiciones $f \circ g$ y $g \circ f$, calculando tanto las expresiones resultantes como sus dominios.
