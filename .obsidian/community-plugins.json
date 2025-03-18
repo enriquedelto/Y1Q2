@@ -15,5 +15,7 @@
   "convert-katex-to-mathjax",
   "smart-connections-visualizer",
   "obsidian-style-settings",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "vscode-editor",
+  "open-vscode"
 ]

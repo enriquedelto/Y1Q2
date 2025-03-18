@@ -1,6 +1,6 @@
 - Cálculo: 2
 - Sistemas Operativos: 2
-- Algoritmia: 1
+- Algoritmia: 2
 - Álgebra: 1
 - Fundamentos de la Empresa: 1
 - Tecnología de Computadores: 1

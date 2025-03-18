@@ -6,6 +6,9 @@ tags:
 > [!example] Asignaturas
 > - **Algebra y matematica discreta**
 > 	- [[Álgebra (idx)]]
+> 	- **Inducción y recursión**
+> 		- [[Inducción Matemática]]
+> 		- [[Recursión]]
 > 	- **Logica y demostraciones**
 > 		- **Metodos de prueba**
 > 			- [[Estrategias de Demostración]]

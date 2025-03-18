@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Algoritmia/3. Análisis de algoritmos/1 - Notación asintótica.md",
+                "file": "Asignaturas/Álgebra y Matemática Discreta/2. Inducción y Recursión/Inducción Matemática.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Notación asintótica"
+              "title": "Inducción Matemática"
             }
           }
         ],
@@ -163,11 +163,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,23 +183,36 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "dbfolder:Create a new database table": false,
       "wikipedia-search:Open Article": false,
+      "smart-connections-visualizer:Open smart connections visualizer": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false,
-      "github-sync:Sync with Remote": false,
-      "smart-connections-visualizer:Open smart connections visualizer": false
+      "vscode-editor:Create Code File": false,
+      "open-vscode:VSCode": false
     }
   },
   "active": "c85103b3e9c68927",
   "lastOpenFiles": [
+    "Asignaturas/Álgebra y Matemática Discreta/2. Inducción y Recursión/Recursión.md",
+    "Asignaturas/Álgebra y Matemática Discreta/2. Inducción y Recursión/Inducción Matemática.md",
+    "Asignaturas/Álgebra y Matemática Discreta/2. Inducción y Recursión/code/mult2.c",
+    "Asignaturas/Álgebra y Matemática Discreta/2. Inducción y Recursión/code",
+    "Asignaturas/Sistemas Operativos/1. Introducción/1.1 Bloques Fundamentales/Gestión de memoria.md",
+    "Asignaturas/Sistemas Operativos/1. Introducción/1.1 Bloques Fundamentales/Bloques Fundamentales.md",
+    "Asignaturas/Cálculo/1. Cálculo Diferencial/1.1 Introducción al Análisis/Introducción y Objetivos.md",
     "Asignaturas/Cálculo/1. Cálculo Diferencial/1.1 Introducción al Análisis/Concepto de función.md",
-    "Asignaturas/Algoritmia/3. Análisis de algoritmos/1 - Notación asintótica.md",
-    "Asignaturas/Algoritmia/Algoritmia (idx).md",
     "Asignaturas/Algoritmia/3. Análisis de algoritmos/2 - Análisis matemático de algoritmos no recursivos.md",
-    "Asignaturas/Algoritmia/2. Eficiencia de los Algoritmos/Caso peor, mejor y medio.md",
-    "Asignaturas/Algoritmia/3. Análisis de algoritmos",
+    "Asignaturas/Algoritmia/3. Análisis de algoritmos/1 - Notación asintótica.md",
     "Asignaturas/Algoritmia/2. Eficiencia de los Algoritmos/Tiempo de Ejecución.md",
     "Asignaturas/Algoritmia/2. Eficiencia de los Algoritmos/Tamaño de Entrada.md",
     "Asignaturas/Algoritmia/2. Eficiencia de los Algoritmos/Medidas de Eficiencia.md",
+    "Asignaturas/Algoritmia/2. Eficiencia de los Algoritmos/Caso peor, mejor y medio.md",
+    "Asignaturas/Álgebra y Matemática Discreta/1. Lógica y Demostracioness/1.1 Métodos de Prueba/Ejercicios.md",
+    "Asignaturas/Álgebra y Matemática Discreta/2. Inducción y Recursión",
+    "Asignaturas/Álgebra y Matemática Discreta/1. Lógica y Demostracioness/1.1 Métodos de Prueba/Estrategias de Demostración.md",
+    "Asignaturas/Álgebra y Matemática Discreta/1. Lógica y Demostracioness/1.1 Métodos de Prueba/Métodos de Prueba.md",
+    "DIARIO.md",
+    "Asignaturas/Algoritmia/Algoritmia (idx).md",
+    "Asignaturas/Algoritmia/3. Análisis de algoritmos",
     "Asignaturas/Algoritmia/2. Eficiencia de los Algoritmos/GUIA.md",
     "Asignaturas/Algoritmia/2. Eficiencia de los Algoritmos/2.1 Medidas de Eficiencia/Evaluación de Casos.md",
     "Asignaturas/Algoritmia/2. Eficiencia de los Algoritmos/2.1 Medidas de Eficiencia/Notación Asintótica.md",
@@ -207,25 +221,12 @@
     "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Branch and Bound.md",
     "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Divide y Conquista.md",
     "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Estrategias de Diseño de Algoritmos (idx).md",
-    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Introducción y Objetivos.md",
-    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Recursividad.md",
-    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Programación Dinámica.md",
     "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Untitled.canvas",
-    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Problemas/Ejercicios - Recursividad.md",
-    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Problemas/Divide y Conquista.md",
-    "Asignaturas/Algoritmia/1. Introducción/1.1 Estrategias de Diseño de Algoritmos/Problemas/Soluciones/Recursividad.md",
-    "DIARIO.md",
-    "Asignaturas/Sistemas Operativos/1. Introducción/1.1 Bloques Fundamentales/Gestión de procesos.md",
-    "Asignaturas/Sistemas Operativos/1. Introducción/1.1 Bloques Fundamentales/Gestión de memoria.md",
-    "Asignaturas/Sistemas Operativos/1. Introducción/1.1 Bloques Fundamentales/Bloques Fundamentales.md",
     "Gestión de Entrada/Salida (E",
     "Gestión de Entrada",
     "Enciclopedia/Informática",
     "E",
     "Entrada/Salida (E",
-    "Entrada",
-    "Enciclopedia",
-    "Asignaturas",
-    "Asignaturas/Tecnología de Computadores/La Información y Sistemas de Numeración"
+    "Entrada"
   ]
 }
