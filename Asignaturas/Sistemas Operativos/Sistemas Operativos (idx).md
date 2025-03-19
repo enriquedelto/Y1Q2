@@ -6,6 +6,12 @@ tags:
 
 
 > [!example] Asignaturas / Sistemas operativos
+> - **Estructura de los sistemas operativos**
+> 	- [[1 - Servicios del Sistema Operativo]]
+> 	- [[2 - Interfaz de Usuario del Sistema Operativo]]
+> 	- [[3 - Llamadas al Sistema]]
+> 	- [[4 - Tipos de Llamadas al Sistema]]
+> 	- [[5 - La Estructura del Sistema Operativo]]
 > - **Introducción**
 > 	- [[1 - Introducción y Objetivos]]
 > 	- [[2 - El Sistema Operativo]]
@@ -148,4 +154,6 @@ tags:
     - Gestión del espacio libre
 - Cuaderno de ejercicios
 - Referencias
+
+
 
