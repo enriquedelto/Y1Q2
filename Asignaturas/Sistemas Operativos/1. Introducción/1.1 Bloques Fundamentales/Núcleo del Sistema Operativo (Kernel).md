@@ -1,10 +1,7 @@
 ---
 tags:
-  - enciclopedia/informática/sistema_operativo
+  - asignaturas/sistemas_operativos/introducción/bloques_fundamentales
 ---
-
-# Kernel
-
 El **kernel** es el componente central del [[Sistema Operativo]], encargado de gestionar directamente el hardware y de proporcionar los servicios básicos a los demás programas. Se ejecuta en **modo privilegiado** o **modo supervisor**, lo que le permite tener acceso total a los recursos del computador y ejecutar cualquier instrucción soportada por el hardware.
 
 ## Funciones Principales del Kernel
@@ -23,18 +20,18 @@ El **kernel** es el componente central del [[Sistema Operativo]], encargado de g
 
 4. **Control de Acceso y Seguridad:**  
    - Implementa mecanismos de protección que aseguran que los procesos no interfieran entre sí, manteniendo la integridad y privacidad de la información.
-   - Administra permisos y controla el acceso a recursos críticos, lo que se complementa con lo explicado en [[Concepto del Sistema Operativo]].
+   - Administra permisos y controla el acceso a recursos críticos, lo que se complementa con lo explicado en [[2 - El Sistema Operativo|El Sistema Operativo]].
 
-5. **Interfaz con el Sistema de Archivos:**  
+1. **Interfaz con el Sistema de Archivos:**  
    - Facilita la gestión de archivos y directorios, proporcionando abstracciones que permiten a los programas interactuar con el almacenamiento sin preocuparse por los detalles físicos.
-   - Este manejo del sistema de archivos se amplía en [[Objetivos y Funciones]] del Sistema Operativo.
+   - Este manejo del sistema de archivos se amplía en [[3 - Objetivos y Funciones|Objetivo y Funciones]] del Sistema Operativo.
 
 ## Importancia del Kernel
 
 El kernel es esencial porque:
 
 - **Abstrae la complejidad del hardware:**  
-  Permite que los desarrolladores y usuarios interactúen con el computador sin necesidad de conocer los detalles técnicos subyacentes, siguiendo la filosofía presentada en [[El Sistema Operativo]].
+  Permite que los desarrolladores y usuarios interactúen con el computador sin necesidad de conocer los detalles técnicos subyacentes, siguiendo la filosofía presentada en [[2 - El Sistema Operativo|El Sistema Operativo]].
 
 - **Garantiza la estabilidad y seguridad:**  
   Al ejecutarse en modo privilegiado, puede controlar y limitar el acceso a recursos críticos, protegiendo el sistema contra errores y actividades maliciosas.

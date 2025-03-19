@@ -7,14 +7,27 @@ tags:
 
 > [!example] Asignaturas / Sistemas operativos
 > - **Introducción**
-> 	- [[El Sistema Operativo]]
-> 	- [[Evolución histórica]]
-> 	- [[Asignaturas/Sistemas Operativos/1. Introducción/Introducción y Objetivos|Introducción y Objetivos]]
-> 	- [[Objetivos y Funciones]]
+> 	- [[1 - Introducción y Objetivos]]
+> 	- [[2 - El Sistema Operativo]]
+> 	- [[3 - Objetivos y Funciones]]
+> 	- [[4 - Evolución histórica]]
+> 	- [[5 - Virtualización]]
+> 	- [[6 - Categorías de Sistemas Operativos]]
+> 	- [[7 - Sistemas Operativos de Consolas de Videojuegos]]
 > 	- **Bloques fundamentales**
-> 		- [[Gestión de memoria]]
-> 		- [[Gestión de procesos]]
+> 		- [[Núcleo del Sistema Operativo (Kernel)]]
+> 		- [[Shell o Intérprete de Comandos]]
 > 		- [[Bloques Fundamentales]]
+> 		- **Servicios del sistema operativo**
+> 			- [[Gestión de comunicaciones y sincronización entre procesos]]
+> 			- [[Gestión de Entrada-Salida]]
+> 			- [[Gestión de la Seguridad y protección]]
+> 			- [[Gestión de memoria]]
+> 			- [[Gestión de procesos]]
+> 			- [[Gestión del almacenamiento]]
+> 			- [[Gestión del sistema de archivos]]
+> - **Procesos e hilos i**
+> 	- [[Concepto de Proceso]]
 > 
 > ^indexof-asignaturas-sistemas-operativos
 

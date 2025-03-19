@@ -1,6 +1,6 @@
 ---
 tags:
-  - asignaturas/sistemas_operativos/introducción/bloques_fundamentales
+  - asignaturas/sistemas_operativos/introducción/bloques_fundamentales/servicios_del_sistema_operativo
 ---
 La [gestión de memoria](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_memoria "Gestión de memoria") o administración de memoria es el acto de gestionar la [memoria](https://es.wikipedia.org/wiki/Memoria_\(inform%C3%A1tica\) "Memoria (informática)") de un dispositivo informático. El proceso de [asignación de memoria](https://es.wikipedia.org/wiki/Asignaci%C3%B3n_de_memoria "Asignación de memoria") a los programas que la solicitan.[9](https://es.wikipedia.org/wiki/Sistema_operativo#cite_note-10)​
 

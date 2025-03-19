@@ -6,7 +6,7 @@ Un computador es un sistema complejo. Si los desarrolladores de aplicaciones tuv
 
 Afortunadamente, los computadores disponen de una capa de software, conocida como **[[Sistema Operativo]]**, que ofrece a las aplicaciones —y a los desarrolladores— un modelo simplificado de la máquina. Este software se encarga de la administración de los recursos hardware, permitiendo a los programas operar sin tener que lidiar con la complejidad inherente del hardware.
 
-El [[Sistema Operativo]] se ejecuta en **modo [[Kernel]]** o supervisor, lo que le confiere acceso completo al hardware para ejecutar cualquier instrucción soportada por la máquina. En cambio, el resto de las aplicaciones se ejecutan en **modo [[Usuario]]**, y tienen restringido el acceso directo a instrucciones críticas, especialmente aquellas que afectan el control de la máquina o realizan operaciones de [[Entrada/Salida (E/S)]].
+El [[Sistema Operativo]] se ejecuta en **modo [[Núcleo del Sistema Operativo (Kernel)]]** o supervisor, lo que le confiere acceso completo al hardware para ejecutar cualquier instrucción soportada por la máquina. En cambio, el resto de las aplicaciones se ejecutan en **modo [[Usuario]]**, y tienen restringido el acceso directo a instrucciones críticas, especialmente aquellas que afectan el control de la máquina o realizan operaciones de [[Entrada/Salida (E/S)]].
 
 Otro componente importante es el programa de **[[Interfaz de Usuario]]**, ya sea una shell de línea de comandos o una interfaz gráfica, que facilita la ejecución de programas de manera cómoda.
 

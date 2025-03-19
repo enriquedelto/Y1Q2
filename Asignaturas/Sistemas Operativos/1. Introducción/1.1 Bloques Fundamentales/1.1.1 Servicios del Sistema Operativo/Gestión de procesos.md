@@ -1,6 +1,6 @@
 ---
 tags:
-  - asignaturas/sistemas_operativos/introducción/bloques_fundamentales
+  - asignaturas/sistemas_operativos/introducción/bloques_fundamentales/servicios_del_sistema_operativo
 ---
 Un [proceso](https://es.wikipedia.org/wiki/Proceso_\(inform%C3%A1tica\) "Proceso (informática)") es simplemente, un programa en ejecución que necesita recursos para realizar su tarea: [tiempo de CPU](https://es.wikipedia.org/wiki/Tiempo_de_CPU "Tiempo de CPU"), memoria, archivos y dispositivos de E/S. El SO es el responsable de lo siguiente:
 
